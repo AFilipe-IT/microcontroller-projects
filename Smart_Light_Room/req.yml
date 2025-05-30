@@ -1,0 +1,12 @@
+
+## ✅ Requisitos de Tempo
+
+- Detecção do utilizador: ≤ 5s
+- Resposta do comando MQTT: ≤ 4s
+- Atualização de estado no app: ≤ 4s
+
+## 📃 Licença
+
+Este projeto é de uso educacional. Sinta-se livre para adaptar e expandir.
+
+---
